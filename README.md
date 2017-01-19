@@ -1,2 +1,9 @@
 # neo-tech.github.io
-hello  welcome
+<HTML>
+<HEAD>
+<TITLE>hello world</TITLE>
+</HEAD>
+<BODY>
+<CENTER>HELLO WORLD</CENTER>
+</BODY>
+</HTML>
